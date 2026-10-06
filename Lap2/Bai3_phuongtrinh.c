@@ -10,4 +10,5 @@ int main() {
     printf("Nghiem cua phuong trinh la: %.2f\n", x);
     printf("Phuong trinh ax + b = 0 co nghiem x = %.2f\n", x);
     return 0;
+
 }
